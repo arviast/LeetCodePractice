@@ -1,1 +1,1 @@
-# LeetCodePractice
+# Practice Repository
